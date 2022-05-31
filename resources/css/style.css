@@ -3,4 +3,15 @@ body {
     text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 
+<body>
+    <h1 class="header--main ">Discover hidden Plaaces in the world around you</h1>
+<P><a class="ink--cta"    "href="#">>Download Excursion (Coming Soon!)</a></P>
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: #ffffff;
+}
+>.link--cta {
+    font-size: 16px;
+    coloe: aquamarine;
 }
