@@ -1,5 +1,5 @@
 body {
-    background-color:black;
+    background: color: #000000;
     text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -13,5 +13,5 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 >.link--cta {
     font-size: 16px;
-    coloe: aquamarine;
+    color: aquamarine;
 }
